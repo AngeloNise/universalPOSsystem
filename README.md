@@ -17,7 +17,6 @@ The uploaded services and frontend are sufficient to demonstrate the **structure
 - **Backend**: PHP (Laravel), Java (Spring Boot)
 - **Database**: MySQL
 - **Architecture**: Microservices
-- **Hosting**: Hostinger, XAMPP (for local dev)
 
 ---
 
